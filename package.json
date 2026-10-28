@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@atlasauth/js": "^0.2.0"
+    "@atlasauth/js": "^0.26.1"
   },
   "devDependencies": {
     "vite": "^5.4.11"
