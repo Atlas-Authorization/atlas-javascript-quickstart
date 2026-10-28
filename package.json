@@ -13,6 +13,6 @@
     "@atlasauth/js": "^0.26.1"
   },
   "devDependencies": {
-    "vite": "^5.4.11"
+    "vite": "^8.3.5"
   }
 }
